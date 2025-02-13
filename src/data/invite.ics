@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20250212T220814Z
+UID:239bba368081712afd371ce0be65d4adfb10f111@rouxevents.nort
+ heastern.edu/rouxcareercoopfairspring20251
+URL:http://rouxevents.northeastern.edu/rouxcareercoopfairspr
+ ing20251/virtual?guest-access-hash=NDU5MDg1Mjg1fDc3ODQwOTEzN
+ nwxNzM5Mzk4MDkwO2FiMmY0ZDM5OWRmZjc3NTNiODg0ZGY5Mjk1YjhjN2NkZ
+ WJjODYxNTBmMzU4MGU0Y2Y3MTcwNmYxY2VlNzU2NjE%3D
+DTSTART:20250227T193000Z
+DTEND:20250227T223000Z
+ORGANIZER;CN="Logan McCarthy":mailto:Rouxevents@northeastern
+ .edu
+SUMMARY:Roux Career & Co-op Fair - Spring 2025
+DESCRIPTION:Here is your unique link - http://rouxevents.nor
+ theastern.edu/rouxcareercoopfairspring20251/virtual?guest-ac
+ cess-hash=NDU5MDg1Mjg1fDc3ODQwOTEzNnwxNzM5Mzk4MDkwO2FiMmY0ZD
+ M5OWRmZjc3NTNiODg0ZGY5Mjk1YjhjN2NkZWJjODYxNTBmMzU4MGU0Y2Y3MT
+ cwNmYxY2VlNzU2NjE%3D\n\nFor the best experience, join this m
+ eeting on your desktop
+LOCATION:The Roux Institute 100 Fore Street Portland ME 0410
+ 1
+END:VEVENT
+END:VCALENDAR
